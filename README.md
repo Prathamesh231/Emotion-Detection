@@ -1,2 +1,0 @@
-# Emotion-Detection
-Minor project
